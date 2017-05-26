@@ -6,6 +6,6 @@
  * ------------------------------------------------------------------
  */
 
-let vueWechatAuth = require('./src/index')
+var vueWechatAuth = require("vue-wechat-auth")
 
 module.exports = vueWechatAuth
